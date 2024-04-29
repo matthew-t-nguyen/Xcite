@@ -1,5 +1,7 @@
 Demo Link: https://www.youtube.com/watch?v=aCpGfgTjQOE
+
 Demo Slides: https://docs.google.com/presentation/d/1F_2MuIiBKDf3eXLv1Y584Tj6Vfn3S_c9JTjDH-hlpLg/edit#slide=id.g2ce46553a23_0_324
+
 
 My friends and I developed Xcite, which was awarded Top 5 🏆 at the 2024 X Developer Challenge (formerly Twitter) out of ~35 teams and ~120 participants! Huge shoutout to my teammates—I couldn't do this without them: Lucas Johansson, Rakhi C, Elden Yap.
 
